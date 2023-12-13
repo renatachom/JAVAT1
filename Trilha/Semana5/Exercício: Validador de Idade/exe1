@@ -1,0 +1,7 @@
+Exercício: Validador de Idade
+• Crie uma classe chamada ValidadorIdade que recebe a idade como entrada do
+usuário. Se a idade for menor que 0 ou maior que 150, lance uma exceção chamada
+IdadeInvalidaException.
+• Use esta classe no cadastro de um cliente em que é fornecida a data de nascimento. O
+sistema deve calcular a idade atual e, se for o caso, gerar a exception.
+• Implemente uma versão checada e uma versão não checada.
