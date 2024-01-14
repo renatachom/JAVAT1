@@ -1,0 +1,3 @@
+Este é um exemplo de arquivo gerado por um programa em Java.
+Você pode adicionar mais linhas conforme necessário.
+Fechando o arquivo.
